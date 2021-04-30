@@ -4,6 +4,8 @@ body {
 	background-image: url(bintang.JPG);
 	background-size:cover; 
 }
+background { 
+	width : 700px; margin:auto
 h1 {
 	text-align: center;
 	font-family: Copperplate;
