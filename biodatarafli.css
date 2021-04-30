@@ -1,4 +1,6 @@
 body {
+<div class="background">
+<div class="isi">
 	background-image: url(bintang.JPG);
 	background-size:cover; 
 }
@@ -39,3 +41,5 @@ p {
 	text-align: justify;
 	background-color: white
 }
+</div>
+</div>
