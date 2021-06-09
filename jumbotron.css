@@ -1,0 +1,14 @@
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #c2c2a3;
+	text-align: center;
+}
+.figure img {
+	width: 75px;
+	margin: 20px 15px 0px
+}
+.figure p {
+	font-size: 16px;
+	font-style:normal;
+	color: #000000
+}
